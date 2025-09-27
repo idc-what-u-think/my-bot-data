@@ -283,13 +283,17 @@
         ]
       },
       "1069280232005185647": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-09-27T12:34:18.959Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-09-27T12:34:38.254Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-09-27T12:34:18.959Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-09-27T12:34:38.254Z"
           }
         ]
       }
