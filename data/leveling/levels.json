@@ -81,13 +81,17 @@
         ]
       },
       "1309047177926021221": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-09-27T12:18:30.220Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-09-27T12:18:48.048Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-09-27T12:18:30.220Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-09-27T12:18:48.048Z"
           }
         ]
       }
