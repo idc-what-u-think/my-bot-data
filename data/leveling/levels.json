@@ -1945,13 +1945,17 @@
         ]
       },
       "1189665055042711744": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-09-27T19:37:21.044Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-09-27T19:46:29.060Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-09-27T19:37:21.044Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-09-27T19:46:29.060Z"
           }
         ]
       }
