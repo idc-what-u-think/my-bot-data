@@ -32,8 +32,16 @@
           "text": "OMG, you caught me! 🤫 It's true, I'm your #1 fan fr! What's good today, bestie? ✨"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "You are DMS"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-09-27T23:46:09.944Z",
-  "messageCount": 4
+  "lastUpdated": "2025-09-27T23:46:35.490Z",
+  "messageCount": 5
 }
