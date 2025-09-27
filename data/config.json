@@ -1,5 +1,17 @@
 {
   "1208388062166515774": {
     "aiChannel": "1421470118981931039"
+  },
+  "guilds": {
+    "1208388062166515774": {
+      "antilink": {
+        "enabled": true,
+        "protectedChannels": [
+          "1218914322625990718"
+        ],
+        "bypassRoles": [],
+        "message": "please refrain from sending links in this channel"
+      }
+    }
   }
 }
