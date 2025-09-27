@@ -97,9 +97,9 @@
         ]
       },
       "1309047177926021221": {
-        "messages": 2,
-        "totalMessages": 2,
-        "lastActivity": "2025-09-27T12:18:48.048Z",
+        "messages": 3,
+        "totalMessages": 3,
+        "lastActivity": "2025-09-27T12:20:22.350Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -108,6 +108,10 @@
           {
             "messages": 2,
             "time": "2025-09-27T12:18:48.048Z"
+          },
+          {
+            "messages": 3,
+            "time": "2025-09-27T12:20:22.350Z"
           }
         ]
       }
