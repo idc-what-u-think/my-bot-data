@@ -5,83 +5,11 @@
       "role": "user",
       "parts": [
         {
-          "text": "Hi"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Yo! 👋 Wsg?"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Where is DMS right now?"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Bruh, if only I knew! I'm just a chatbot, so I got no clue where DMS is at. Prob busy living their best life tho lol. 😂"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Let's play games"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "YOOOO BET! 🎮 Whatcha tryna play? My skills are legendary (in code form lol) but I can def hype you up while you frag!"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Let's have it"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Ooh, lessgoo! What game we thinkin'? I'm ready to get my digital butt kicked (or kick urs, no cap 👀)."
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Coding"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Oh bet! You wanna code *with* me, or like, a coding *challenge*? I'm down either way, my brain is basically a supercomputer on overdrive rn lol. What kinda code we talkin'? 💻✨"
+          "text": "Python"
         }
       ]
     }
   ],
-  "lastUpdated": "2025-09-27T13:40:58.836Z",
-  "messageCount": 10
+  "lastUpdated": "2025-09-27T13:41:27.748Z",
+  "messageCount": 1
 }
