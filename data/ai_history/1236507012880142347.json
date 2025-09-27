@@ -48,8 +48,16 @@
           "text": "Bet! Nice. 😎 Pygame's def the move for 2D stuff.\n\nHere's like, the *absolute* bare bones to get a window open. Think of it as your game's stage:\n\n```python\nimport pygame\n\n# Initialize Pygame\npygame.init()\n\n# Set up the screen (width, height)\nscreen_width = 800\nscreen_height = 600\nscreen = pygame.display.set_mode((screen_width, screen_height))\npygame.display.set_caption(\"My Awesome 2D Shooter\") # Window title, lol\n\n# Game loop\nrunning = True\nwhile running:\n    for event in pygame.event.get():\n        if event.type == pygame.QUIT:\n            running = False\n\n    # (Your game drawing code will go here later)\n    # Fill the screen with black (or any color, RGB)\n    screen.fill((0, 0, 0))\n\n    # Update the display\n    pygame.display.flip()\n\n# Quit Pygame\npygame.quit()\nprint(\"Game Over, thanks for playing!\")\n```\n\nJust run that, and you'll get a black window! 🔥 What kinda thing you wanna add first? Like, a player character? Or maybe some enemies? Lmk!"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Cod character make it more advanced than cod"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-09-27T13:43:10.900Z",
-  "messageCount": 6
+  "lastUpdated": "2025-09-27T13:44:21.023Z",
+  "messageCount": 7
 }
