@@ -23,9 +23,9 @@
     },
     "1208388062166515774": {
       "1316704971370266686": {
-        "messages": 12,
-        "totalMessages": 12,
-        "lastActivity": "2025-09-27T12:23:10.717Z",
+        "messages": 13,
+        "totalMessages": 13,
+        "lastActivity": "2025-09-27T12:24:02.343Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -74,6 +74,10 @@
           {
             "messages": 12,
             "time": "2025-09-27T12:23:10.717Z"
+          },
+          {
+            "messages": 13,
+            "time": "2025-09-27T12:24:02.343Z"
           }
         ]
       },
@@ -127,17 +131,6 @@
           {
             "messages": 1,
             "time": "2025-09-27T12:23:51.609Z"
-          }
-        ]
-      },
-      "1416426219519475783": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-09-27T12:24:01.633Z",
-        "messageHistory": [
-          {
-            "messages": 1,
-            "time": "2025-09-27T12:24:01.633Z"
           }
         ]
       }
