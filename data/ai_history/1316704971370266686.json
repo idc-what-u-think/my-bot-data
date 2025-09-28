@@ -64,8 +64,16 @@
           "text": "Ohh, a dev library for JS Discord bot builders! That's super clutch. 💯\n\nYou could def include:\n*   **Command handler templates:** Basic `!ping` or `!help` structures\n*   **Embed builders:** So ppl can make fancy messages quick ✨\n*   **Utility functions:** Like random numbers, time formatting, string manipulation\n*   **API fetch patterns:** For getting data from external sites (jokes, weather, etc.)\n*   **Config variable examples:** How to safely store tokens, prefixes, etc.\n\nThat'd save everyone so much time, fr! Good luck with it! 💪"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Nah it's like a course outline for junior builders who doesn't know how to start"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-09-28T12:49:03.751Z",
-  "messageCount": 8
+  "lastUpdated": "2025-09-28T12:50:22.421Z",
+  "messageCount": 9
 }
