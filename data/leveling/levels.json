@@ -2361,13 +2361,17 @@
         ]
       },
       "1258568300900651012": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-09-28T03:45:07.689Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-09-28T03:45:13.408Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-09-28T03:45:07.689Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-09-28T03:45:13.408Z"
           }
         ]
       }
