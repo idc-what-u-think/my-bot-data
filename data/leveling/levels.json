@@ -2953,13 +2953,17 @@
         ]
       },
       "1396629555334352946": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-09-29T22:29:48.558Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-09-29T22:30:35.325Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-09-29T22:29:48.558Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-09-29T22:30:35.325Z"
           }
         ]
       }
