@@ -3147,9 +3147,9 @@
         ]
       },
       "1285925735583842368": {
-        "messages": 2,
-        "totalMessages": 2,
-        "lastActivity": "2025-09-30T09:17:42.825Z",
+        "messages": 3,
+        "totalMessages": 3,
+        "lastActivity": "2025-09-30T09:18:08.938Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -3158,6 +3158,10 @@
           {
             "messages": 2,
             "time": "2025-09-30T09:17:42.825Z"
+          },
+          {
+            "messages": 3,
+            "time": "2025-09-30T09:18:08.938Z"
           }
         ]
       },
