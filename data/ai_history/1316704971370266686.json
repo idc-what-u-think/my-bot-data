@@ -64,8 +64,16 @@
           "text": "Oh no, still feeling that way? 🥺 What's got your brain in a knot, fam? Lemme know if I can help untangle it, even a lil bit! fr."
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Nah I dont even know I'm confused \nI'm just confused and tired"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-09-30T11:42:51.999Z",
-  "messageCount": 8
+  "lastUpdated": "2025-09-30T11:43:44.642Z",
+  "messageCount": 9
 }
