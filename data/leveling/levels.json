@@ -4345,13 +4345,17 @@
         ]
       },
       "1233070201172529207": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-09-29T19:06:55.345Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-09-30T19:18:02.762Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-09-29T19:06:55.345Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-09-30T19:18:02.762Z"
           }
         ]
       },
