@@ -6753,13 +6753,17 @@
         ]
       },
       "1418712147520782406": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-09-30T13:14:50.700Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-09-30T13:14:59.803Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-09-30T13:14:50.700Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-09-30T13:14:59.803Z"
           }
         ]
       }
