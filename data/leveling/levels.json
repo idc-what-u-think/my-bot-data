@@ -2763,9 +2763,9 @@
         ]
       },
       "975094228340314132": {
-        "messages": 6,
-        "totalMessages": 6,
-        "lastActivity": "2025-09-29T17:52:27.762Z",
+        "messages": 7,
+        "totalMessages": 7,
+        "lastActivity": "2025-09-30T09:17:05.320Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -2790,6 +2790,10 @@
           {
             "messages": 6,
             "time": "2025-09-29T17:52:27.762Z"
+          },
+          {
+            "messages": 7,
+            "time": "2025-09-30T09:17:05.320Z"
           }
         ]
       },
@@ -2855,13 +2859,17 @@
         ]
       },
       "1418953804891558019": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-09-29T16:05:06.458Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-09-30T09:17:09.265Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-09-29T16:05:06.458Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-09-30T09:17:09.265Z"
           }
         ]
       },
@@ -3108,17 +3116,13 @@
         ]
       },
       "1408472155359936605": {
-        "messages": 2,
-        "totalMessages": 2,
-        "lastActivity": "2025-09-30T09:17:06.440Z",
+        "messages": 1,
+        "totalMessages": 1,
+        "lastActivity": "2025-09-30T09:16:57.779Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-09-30T09:16:57.779Z"
-          },
-          {
-            "messages": 2,
-            "time": "2025-09-30T09:17:06.440Z"
           }
         ]
       },
@@ -3141,17 +3145,6 @@
           {
             "messages": 1,
             "time": "2025-09-30T09:17:02.399Z"
-          }
-        ]
-      },
-      "1332635193328140350": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-09-30T09:17:10.424Z",
-        "messageHistory": [
-          {
-            "messages": 1,
-            "time": "2025-09-30T09:17:10.424Z"
           }
         ]
       }
