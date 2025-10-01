@@ -9186,13 +9186,17 @@
         ]
       },
       "1420649282876477440": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-10-01T20:50:59.814Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-10-01T22:31:22.723Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-10-01T20:50:59.814Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-10-01T22:31:22.723Z"
           }
         ]
       },
