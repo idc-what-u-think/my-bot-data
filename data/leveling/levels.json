@@ -9827,13 +9827,17 @@
         ]
       },
       "1336810802249728031": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-10-01T22:46:43.854Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-10-01T22:51:19.427Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-10-01T22:46:43.854Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-10-01T22:51:19.427Z"
           }
         ]
       }
