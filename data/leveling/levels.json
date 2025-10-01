@@ -7811,13 +7811,17 @@
         ]
       },
       "1373327471277248512": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-10-01T11:51:59.200Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-10-01T11:52:13.383Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-10-01T11:51:59.200Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-10-01T11:52:13.383Z"
           }
         ]
       },
