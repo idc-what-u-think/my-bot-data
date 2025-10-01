@@ -8008,13 +8008,17 @@
         ]
       },
       "1333949750231175246": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-10-01T13:28:35.845Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-10-01T13:29:20.857Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-10-01T13:28:35.845Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-10-01T13:29:20.857Z"
           }
         ]
       }
