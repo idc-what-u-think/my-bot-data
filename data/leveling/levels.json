@@ -8451,13 +8451,17 @@
         ]
       },
       "1417155759950528524": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-10-01T20:53:09.178Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-10-01T20:55:36.421Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-10-01T20:53:09.178Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-10-01T20:55:36.421Z"
           }
         ]
       },
