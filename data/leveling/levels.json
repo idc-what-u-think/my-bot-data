@@ -5120,13 +5120,17 @@
         ]
       },
       "1297187270989975675": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-09-30T01:06:55.984Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-10-01T20:36:35.639Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-09-30T01:06:55.984Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-10-01T20:36:35.639Z"
           }
         ]
       },
