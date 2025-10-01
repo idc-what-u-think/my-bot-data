@@ -40,8 +40,16 @@
           "text": "Tell me directly"
         }
       ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Aight, direct for real? For **General**, just try setting it to **95**.\n\nThat's usually a super solid starting point for most peeps. Tweak the others if needed, but start there! 😎"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-01T12:42:39.720Z",
-  "messageCount": 5
+  "lastUpdated": "2025-10-01T12:42:41.354Z",
+  "messageCount": 6
 }
