@@ -456,14 +456,10 @@
         ]
       },
       "1366537804787613777": {
-        "messages": 249,
-        "totalMessages": 249,
-        "lastActivity": "2025-10-04T16:05:42.662Z",
+        "messages": 250,
+        "totalMessages": 250,
+        "lastActivity": "2025-10-04T16:06:14.034Z",
         "messageHistory": [
-          {
-            "messages": 150,
-            "time": "2025-09-30T15:36:36.161Z"
-          },
           {
             "messages": 151,
             "time": "2025-09-30T15:36:43.667Z"
@@ -859,6 +855,10 @@
           {
             "messages": 249,
             "time": "2025-10-04T16:05:42.662Z"
+          },
+          {
+            "messages": 250,
+            "time": "2025-10-04T16:06:14.034Z"
           }
         ]
       },
