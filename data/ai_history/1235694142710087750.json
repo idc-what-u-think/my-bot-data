@@ -32,8 +32,16 @@
           "text": "Ah-ah! 🧐 Wetin dey sup na? You dey reason something deep abi? 😉"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Can I override the pidgin mode another person set"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-05T13:41:06.529Z",
-  "messageCount": 4
+  "lastUpdated": "2025-10-05T13:41:59.555Z",
+  "messageCount": 5
 }
