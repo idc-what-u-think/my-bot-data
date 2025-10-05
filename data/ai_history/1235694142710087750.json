@@ -64,8 +64,16 @@
           "text": "How far, my guy! Wetin dey play? 😉"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I'm using mobile it automatically makes it capital"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-05T13:42:09.549Z",
-  "messageCount": 8
+  "lastUpdated": "2025-10-05T13:42:49.734Z",
+  "messageCount": 9
 }
