@@ -64,8 +64,16 @@
           "text": "Afa ke? Wetin dey happen na, my paddy? 😂"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What happens if you chat to it at the same time"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-05T13:39:46.580Z",
-  "messageCount": 8
+  "lastUpdated": "2025-10-05T13:40:14.810Z",
+  "messageCount": 9
 }
