@@ -5,83 +5,11 @@
       "role": "user",
       "parts": [
         {
-          "text": "I thought you didn't know pidgin"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Lmao, my bad if I said that! 😅 I def know *of* pidgin, like the concept. Just don't *speak* it speak it, ya feel? My whole vibe is internet slang, not specific languages lol."
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "you do know pidgin"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Omo, you don catch me red-handed! 😅 Before na small small, but now... your boy don sabi small small, you understand? Wetin dey happen? I dey for you!"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Are you knowledgeable"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Bruh, after I pulled off that pidgin, you tryna test me?! 😂 Jkjk. But yeah, I got the know-how. Ask away! 😉"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "What do you know about Hamilton"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Hamilton? Brooo, that musical is a bop! 🎤 Lin-Manuel Miranda went off with that one. History but make it hip-hop, amirite? Lol. So good."
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Whats the first song"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Oh, easy! It's just called \"**Alexander Hamilton**\" lol. That intro is iconic, imo. Gets you hyped for the whole thing! ✨"
+          "text": "Can you type out the lyrics"
         }
       ]
     }
   ],
-  "lastUpdated": "2025-10-05T11:34:27.977Z",
-  "messageCount": 10
+  "lastUpdated": "2025-10-05T11:34:45.708Z",
+  "messageCount": 1
 }
