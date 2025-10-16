@@ -2763,14 +2763,10 @@
         ]
       },
       "1235694142710087750": {
-        "messages": 397,
-        "totalMessages": 397,
-        "lastActivity": "2025-10-16T18:23:06.531Z",
+        "messages": 398,
+        "totalMessages": 398,
+        "lastActivity": "2025-10-16T18:23:40.380Z",
         "messageHistory": [
-          {
-            "messages": 298,
-            "time": "2025-10-04T07:36:02.958Z"
-          },
           {
             "messages": 299,
             "time": "2025-10-04T07:36:27.523Z"
@@ -3166,6 +3162,10 @@
           {
             "messages": 397,
             "time": "2025-10-16T18:23:06.531Z"
+          },
+          {
+            "messages": 398,
+            "time": "2025-10-16T18:23:40.380Z"
           }
         ]
       },
@@ -3967,14 +3967,10 @@
         ]
       },
       "1258568300900651012": {
-        "messages": 172,
-        "totalMessages": 172,
-        "lastActivity": "2025-10-16T18:22:56.117Z",
+        "messages": 173,
+        "totalMessages": 173,
+        "lastActivity": "2025-10-16T18:23:36.702Z",
         "messageHistory": [
-          {
-            "messages": 73,
-            "time": "2025-09-30T13:51:39.078Z"
-          },
           {
             "messages": 74,
             "time": "2025-09-30T13:51:49.155Z"
@@ -4370,6 +4366,10 @@
           {
             "messages": 172,
             "time": "2025-10-16T18:22:56.117Z"
+          },
+          {
+            "messages": 173,
+            "time": "2025-10-16T18:23:36.702Z"
           }
         ]
       },
@@ -8941,9 +8941,9 @@
         ]
       },
       "1393876011422318602": {
-        "messages": 19,
-        "totalMessages": 19,
-        "lastActivity": "2025-10-16T18:23:38.252Z",
+        "messages": 18,
+        "totalMessages": 18,
+        "lastActivity": "2025-10-16T18:21:55.802Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -9016,10 +9016,6 @@
           {
             "messages": 18,
             "time": "2025-10-16T18:21:55.802Z"
-          },
-          {
-            "messages": 19,
-            "time": "2025-10-16T18:23:38.252Z"
           }
         ]
       },
