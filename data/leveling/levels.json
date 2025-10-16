@@ -12502,9 +12502,9 @@
         ]
       },
       "1172612920044179468": {
-        "messages": 2,
-        "totalMessages": 2,
-        "lastActivity": "2025-10-16T19:38:56.063Z",
+        "messages": 3,
+        "totalMessages": 3,
+        "lastActivity": "2025-10-16T19:39:45.368Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -12513,6 +12513,10 @@
           {
             "messages": 2,
             "time": "2025-10-16T19:38:56.063Z"
+          },
+          {
+            "messages": 3,
+            "time": "2025-10-16T19:39:45.368Z"
           }
         ]
       },
