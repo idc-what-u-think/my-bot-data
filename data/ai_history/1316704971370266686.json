@@ -48,8 +48,16 @@
           "text": "You're touching upon a core aspect of the anti-cheat \"cat and mouse\" game.\n\n1.  **Detection at Load-up:** If a cheat's code is \"not well hidden,\" it would likely be detected during the game's initial integrity checks. Modern games perform comprehensive scans of their own executable files, loaded libraries, and critical memory regions (within their sandbox) at startup. They often use:\n    *   **File Integrity Verification:** Comparing checksums or hashes of game files against known good values. Any modification, even a subtle one, would trigger a flag.\n    *   **Memory Signature Scanning:** Looking for known patterns (signatures) of common cheat tools or injected code within their allocated memory space *before* gameplay begins.\n    *   **API Hook Detection:** Checking if core system functions that the game relies on have been tampered with or \"hooked\" by external code.\n\n    Detection at this stage often leads to an immediate ban or prevents the game from launching entirely, as the integrity of the game environment is compromised.\n\n2.  **Bypassing Anti-Cheat:** \"Most cheats\" aim to bypass anti-cheat systems precisely because the methods above are effective. This involves more sophisticated techniques, such as:\n    *   **Operating at a lower level:** Some advanced cheats operate at the kernel level or even through hardware, making them much harder for user-mode anti-cheat to detect.\n    *   **Polymorphic code:** Constantly changing the cheat's code signature to evade detection.\n    *   **Delayed injection:** Injecting code or modifying values *after* the initial anti-cheat scans have completed.\n    *   **Mimicking legitimate processes:** Making cheat activity appear as normal system or game processes.\n    *   **Exploiting anti-cheat vulnerabilities:** Finding weaknesses in the anti-cheat software itself to disable or circumvent it.\n\nThis constant arms race drives both anti-cheat development and cheat innovation."
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "what if game companies let's all their files not hidden but hashed that only game devs can read and see how it works. And why does hacks exist unless the companies are doing it on purpose, because they can lock the files with a uuid which fetch from the servers to open the games files and if the uuid is read and unlocks the files, and checks part of the file that handles the aim,"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-17T20:08:23.407Z",
-  "messageCount": 6
+  "lastUpdated": "2025-10-17T20:13:10.439Z",
+  "messageCount": 7
 }
