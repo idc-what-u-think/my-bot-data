@@ -56,8 +56,16 @@
           "text": "have u heard of external AI that do not touch the memory at all? Like lunar v2"
         }
       ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Yes, I am familiar with the concept of \"external AI\" cheats that operate without directly interacting with game memory, often referred to as \"pixel bots\" or \"vision bots.\" Lunar V2 is indeed a well-known example in the Minecraft community, specifically for its sophisticated client-side anti-cheat.\n\nThese types of external AI cheats work by:\n\n1.  **Screen Reading:** They analyze the pixels on the screen, just like a human player would. This involves techniques like color detection, shape recognition, and optical character recognition (OCR) to identify targets, player health, crosshair position, and other crucial game elements.\n2.  **Input Emulation:** Based on their analysis, they then send simulated mouse and keyboard inputs to the operating system, mimicking legitimate player actions. This could be moving the mouse for aiming, clicking for firing, or pressing keys for movement.\n\n**Key characteristics and implications:**\n\n*   **Memory Undetectable:** Because they don't inject code into the game process or read/write to its memory, traditional memory-scanning anti-cheats (which look for suspicious patterns in game memory) are largely ineffective against them.\n*   **Behavioral Detection:** Anti-cheats primarily rely on **behavioral analysis** (e.g., impossibly fast reactions, perfect tracking, pixel-perfect aiming that human players cannot consistently achieve) or **input analysis** (detecting unnatural input patterns, even if simulated).\n*   **Operating System Level Interaction:** Their interaction is often at the operating system level, which is harder for game anti-cheats to monitor directly without elevated privileges.\n*   **Sophistication:** They can range from simple color-based aimbots to highly advanced systems using machine learning and computer vision (hence \"AI\") for complex target prediction and evasion.\n\nWhile challenging to detect via memory scans, their outputs often reveal their presence through inhuman accuracy or reaction times, which is why behavioral and server-side checks remain critical."
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-17T20:21:01.513Z",
-  "messageCount": 7
+  "lastUpdated": "2025-10-17T20:21:04.210Z",
+  "messageCount": 8
 }
