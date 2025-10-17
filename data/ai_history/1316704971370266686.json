@@ -16,8 +16,16 @@
           "text": "Lol, they don't need access to the *whole* phone, fam. Games just scan *their own* memory space, ya know? Like, they're constantly checking their own pockets for weird stuff.\n\nAnti-cheat be lookin' for sus values or code that ain't s'posed to be there. Basically, they self-monitor 👀"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "So how does games detect memory changes if they don't have access to the phone directly"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-17T20:05:28.384Z",
-  "messageCount": 2
+  "lastUpdated": "2025-10-17T20:06:16.825Z",
+  "messageCount": 3
 }
