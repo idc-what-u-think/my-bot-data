@@ -16,8 +16,16 @@
           "text": "The term \"External threshold node hacks\" is not a widely recognized or standardized term within general cybersecurity or game anti-cheat discourse.\n\nHowever, based on its components and common hacking techniques:\n\n*   **External:** This suggests a cheat that operates outside of the game's memory space, meaning it doesn't inject code or read/write directly to the game's process. Examples include pixel bots (which analyze screen pixels) or hardware-based cheats.\n*   **Threshold:** This likely refers to specific conditions or trigger points within the cheat's logic. For instance, an aimbot might activate only when a target's health drops below a certain \"threshold,\" or when a specific color \"threshold\" (identifying an enemy) is met on screen.\n*   **Node:** This component is the most ambiguous. It could refer to:\n    *   A conceptual \"node\" or module within the cheat's internal processing logic (e.g., a detection node, a targeting node, a trigger node).\n    *   Potentially, in specific contexts, it might relate to network \"nodes\" if the cheat involves intercepting or manipulating game data packets at a network level, though this is less common for \"external\" cheats in the pixel bot sense.\n\nTherefore, \"External threshold node hacks\" likely describes a category of sophisticated **external pixel bots or vision-based cheats** that use specific trigger conditions (thresholds) within their processing architecture (nodes) to perform actions like aiming, shooting, or executing abilities, all without touching the game's internal memory.\n\nDetection for such cheats primarily relies on **behavioral analysis** and **server-side validation**, as traditional memory-scanning anti-cheats are ineffective against them due to their external nature."
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "it's when the node reads per seconds is more than normal, so it reads like Ai aimbot just like pixel bots but uses higher intelligence, the external  threshold reads from a DNS to bypass the cheat, and the aimbot can still be done and the server won't notice because it has a fast node which a server handling alot of requests will allow through as normal and that node slip through"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-17T20:26:14.590Z",
-  "messageCount": 2
+  "lastUpdated": "2025-10-17T20:29:08.948Z",
+  "messageCount": 3
 }
