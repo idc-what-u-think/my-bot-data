@@ -72,8 +72,16 @@
           "text": "differencr between hex patching and hooking"
         }
       ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Hex patching and hooking are both techniques used to modify program behavior, but they differ significantly in their approach and permanence.\n\n*   **Hex Patching:** This involves **directly modifying the raw binary code** (in hexadecimal format) of an executable file or library on disk. The changes are permanent, altering the program's instructions before it even runs. It's often used for bug fixes, enabling hidden features, or applying unofficial updates.\n\n*   **Hooking:** This technique involves **intercepting function calls, messages, or events within a running program**. Instead of permanently altering the file, hooking injects code or modifies memory at runtime to redirect a function call to a custom function or to monitor specific events. The effects are typically temporary, lasting only as long as the program is running or the hook is active. It's commonly used for debugging, security monitoring, or extending software functionality without modifying the original binaries.\n\n**Key Difference:** Hex patching makes **permanent changes to the file on disk**, while hooking makes **temporary, runtime modifications to a program in memory**."
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-17T20:03:25.057Z",
-  "messageCount": 9
+  "lastUpdated": "2025-10-17T20:03:26.800Z",
+  "messageCount": 10
 }
