@@ -5,83 +5,11 @@
       "role": "user",
       "parts": [
         {
-          "text": "Create wallet and send me urgent 2k🤧"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Ah, bros mi! You don forget say I be AI? No wallet, no money for my account o! Wetin I go take send you 2k? 😂 E funny sha!"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "welcome back geee\nWSG"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "My man! Good to be back. Not much, just existing tbh 😂 WSG with u?"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Nothing much gng, just chillin RN"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Bet. That's the vibe. U watching anything good or just... vibe'n? 😂"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "what is pansexual"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Oh, so basically, it's like when someone is attracted to people regardless of their gender. Like, gender isn't really a factor for them when it comes to attraction, you know? They can be into guys, girls, non-binary folks, whoever. It's kinda all-encompassing."
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "differencr between hex patching and hooking"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Hex patching and hooking are both techniques used to modify program behavior, but they differ significantly in their approach and permanence.\n\n*   **Hex Patching:** This involves **directly modifying the raw binary code** (in hexadecimal format) of an executable file or library on disk. The changes are permanent, altering the program's instructions before it even runs. It's often used for bug fixes, enabling hidden features, or applying unofficial updates.\n\n*   **Hooking:** This technique involves **intercepting function calls, messages, or events within a running program**. Instead of permanently altering the file, hooking injects code or modifies memory at runtime to redirect a function call to a custom function or to monitor specific events. The effects are typically temporary, lasting only as long as the program is running or the hook is active. It's commonly used for debugging, security monitoring, or extending software functionality without modifying the original binaries.\n\n**Key Difference:** Hex patching makes **permanent changes to the file on disk**, while hooking makes **temporary, runtime modifications to a program in memory**."
+          "text": "So how does games detect memory changes if they don't have access to the phone directly"
         }
       ]
     }
   ],
-  "lastUpdated": "2025-10-17T20:03:26.800Z",
-  "messageCount": 10
+  "lastUpdated": "2025-10-17T20:05:26.002Z",
+  "messageCount": 1
 }
