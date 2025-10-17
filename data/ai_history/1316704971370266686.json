@@ -48,8 +48,16 @@
           "text": "The most effective \"one way\" to handle the vast majority of game-altering hacks is to establish **absolute server-side authority over all critical game mechanics.**\n\nThis means:\n\n1.  **Client as a \"Dumb Terminal\":** The player's client only sends inputs (e.g., \"move forward,\" \"fire weapon,\" \"aim here\").\n2.  **Server as the \"Judge\":** The server processes these inputs, determines the actual outcome based on its own authoritative game state and rules, and then sends the results back to the client for display.\n\nIf the server doesn't validate an action (e.g., a shot hitting, a player moving faster than allowed, an item spawning), it simply didn't happen, regardless of what the client might try to manipulate locally. This nullifies most aimbots, speedhacks, and resource manipulation by taking control away from the player's device. While visual or information-based hacks remain a challenge, server authority is the foundational \"one way\" to prevent direct gameplay manipulation."
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "have u heard of external AI that do not touch the memory at all? Like lunar v2"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-17T20:19:26.334Z",
-  "messageCount": 6
+  "lastUpdated": "2025-10-17T20:21:01.513Z",
+  "messageCount": 7
 }
