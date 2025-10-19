@@ -126,14 +126,10 @@
     },
     "1208388062166515774": {
       "1316704971370266686": {
-        "messages": 1027,
-        "totalMessages": 1027,
-        "lastActivity": "2025-10-19T21:59:45.434Z",
+        "messages": 1028,
+        "totalMessages": 1028,
+        "lastActivity": "2025-10-19T22:00:45.803Z",
         "messageHistory": [
-          {
-            "messages": 928,
-            "time": "2025-10-18T13:53:10.500Z"
-          },
           {
             "messages": 929,
             "time": "2025-10-18T13:53:58.583Z"
@@ -529,14 +525,22 @@
           {
             "messages": 1027,
             "time": "2025-10-19T21:59:45.434Z"
+          },
+          {
+            "messages": 1028,
+            "time": "2025-10-19T22:00:45.803Z"
           }
         ]
       },
       "1366537804787613777": {
-        "messages": 423,
-        "totalMessages": 423,
-        "lastActivity": "2025-10-19T22:00:46.294Z",
+        "messages": 422,
+        "totalMessages": 422,
+        "lastActivity": "2025-10-19T18:51:42.229Z",
         "messageHistory": [
+          {
+            "messages": 323,
+            "time": "2025-10-18T13:19:57.407Z"
+          },
           {
             "messages": 324,
             "time": "2025-10-18T13:20:18.278Z"
@@ -932,10 +936,6 @@
           {
             "messages": 422,
             "time": "2025-10-19T18:51:42.229Z"
-          },
-          {
-            "messages": 423,
-            "time": "2025-10-19T22:00:46.294Z"
           }
         ]
       },
@@ -15024,9 +15024,9 @@
         ]
       },
       "1368998103897608293": {
-        "messages": 3,
-        "totalMessages": 3,
-        "lastActivity": "2025-10-19T16:12:26.468Z",
+        "messages": 4,
+        "totalMessages": 4,
+        "lastActivity": "2025-10-19T22:00:49.248Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -15039,6 +15039,10 @@
           {
             "messages": 3,
             "time": "2025-10-19T16:12:26.468Z"
+          },
+          {
+            "messages": 4,
+            "time": "2025-10-19T22:00:49.248Z"
           }
         ]
       },
