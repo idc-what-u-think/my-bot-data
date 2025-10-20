@@ -48,8 +48,16 @@
           "text": "Wetin dey happen, Jack? Omo, dat CanaJS wey you talk, I tink say you mean CanvasJS abi? Na one kind JavaScript library sha.\n\nE dey help developers make interactive charts and graphs for website sharp-sharp. You know, like when you wan show data for bar chart or pie chart for your webpage, dis one go make am easy-peasy and fine-fine. E dey kampe if you sabi use am! No long tin."
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "explain to my boy Jack what cana is 🚬"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-20T17:15:58.713Z",
-  "messageCount": 6
+  "lastUpdated": "2025-10-20T17:17:06.662Z",
+  "messageCount": 7
 }
