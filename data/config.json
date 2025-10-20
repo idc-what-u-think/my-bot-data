@@ -13,7 +13,10 @@
         "message": "please refrain from sending links in this channel"
       },
       "modlogChannel": "1420827104815218790",
-      "levelUpChannel": "1420826793585152062"
+      "levelUpChannel": "1420826793585152062",
+      "levelRoles": {
+        "1": "1373766139997589654"
+      }
     }
   }
 }
