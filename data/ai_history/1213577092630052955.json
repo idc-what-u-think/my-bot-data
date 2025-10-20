@@ -32,8 +32,16 @@
           "text": "Spill sis, I'm all ears 👂🧐"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Is enginer a job yes or no?"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-20T16:53:14.230Z",
-  "messageCount": 4
+  "lastUpdated": "2025-10-20T17:09:13.834Z",
+  "messageCount": 5
 }
