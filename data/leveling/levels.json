@@ -9790,14 +9790,10 @@
         ]
       },
       "1393876011422318602": {
-        "messages": 432,
-        "totalMessages": 432,
-        "lastActivity": "2025-10-20T16:09:32.828Z",
+        "messages": 433,
+        "totalMessages": 433,
+        "lastActivity": "2025-10-20T16:11:22.222Z",
         "messageHistory": [
-          {
-            "messages": 333,
-            "time": "2025-10-19T19:24:33.460Z"
-          },
           {
             "messages": 334,
             "time": "2025-10-19T19:25:06.024Z"
@@ -10193,6 +10189,10 @@
           {
             "messages": 432,
             "time": "2025-10-20T16:09:32.828Z"
+          },
+          {
+            "messages": 433,
+            "time": "2025-10-20T16:11:22.222Z"
           }
         ]
       },
