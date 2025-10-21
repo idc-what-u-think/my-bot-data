@@ -2895,14 +2895,10 @@
         ]
       },
       "1235694142710087750": {
-        "messages": 616,
-        "totalMessages": 616,
-        "lastActivity": "2025-10-21T08:25:10.545Z",
+        "messages": 617,
+        "totalMessages": 617,
+        "lastActivity": "2025-10-21T08:25:42.660Z",
         "messageHistory": [
-          {
-            "messages": 517,
-            "time": "2025-10-16T21:08:29.410Z"
-          },
           {
             "messages": 518,
             "time": "2025-10-16T21:08:58.062Z"
@@ -3298,6 +3294,10 @@
           {
             "messages": 616,
             "time": "2025-10-21T08:25:10.545Z"
+          },
+          {
+            "messages": 617,
+            "time": "2025-10-21T08:25:42.660Z"
           }
         ]
       },
