@@ -40,8 +40,16 @@
           "text": "translate \"U don craze\" from pidgin to English to my friend barry"
         }
       ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Barry, \"U don craze\" translates to:\n\n**\"You have gone crazy\"** or **\"You are crazy.\"**\n\nIt's a common informal expression implying a lack of sense or strange behavior."
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-22T14:44:26.470Z",
-  "messageCount": 5
+  "lastUpdated": "2025-10-22T14:44:28.204Z",
+  "messageCount": 6
 }
