@@ -16415,13 +16415,17 @@
         ]
       },
       "1430640425345220689": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-10-22T20:46:40.867Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-10-22T20:46:54.039Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-10-22T20:46:40.867Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-10-22T20:46:54.039Z"
           }
         ]
       }
