@@ -15,7 +15,12 @@
       },
       "modlogChannel": "1420827104815218790",
       "levelUpChannel": "1420826793585152062",
-      "levelRoles": {}
+      "levelRoles": {},
+      "referral": {
+        "enabled": true,
+        "from": "9PM",
+        "to": "10PM"
+      }
     }
   }
 }
