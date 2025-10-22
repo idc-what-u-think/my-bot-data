@@ -17,9 +17,9 @@
       "levelUpChannel": "1420826793585152062",
       "levelRoles": {},
       "referral": {
-        "enabled": false,
-        "from": "9PM",
-        "to": "10PM"
+        "enabled": true,
+        "from": "9:36PM",
+        "to": "9:45PM"
       }
     }
   }
