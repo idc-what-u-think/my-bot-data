@@ -64,8 +64,16 @@
           "text": "Barry, the Pidgin translation for \"Go and make money\" is:\n\n**\"Go make money.\"**\n\nYou could also use: **\"Go hustle.\"** (This often implies working hard to earn money.)"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "vex in pidgin mean mad or annoy?"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-22T15:06:22.523Z",
-  "messageCount": 8
+  "lastUpdated": "2025-10-22T15:13:17.997Z",
+  "messageCount": 9
 }
