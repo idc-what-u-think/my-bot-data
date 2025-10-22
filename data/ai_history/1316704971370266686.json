@@ -48,8 +48,16 @@
           "text": "Barry, \"U don craze\" translates to:\n\n**\"You have gone crazy\"** or **\"You are crazy.\"**\n\nIt's a common informal expression implying a lack of sense or strange behavior."
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Translate \"Go and make money\" from English to pidgin to my firend barry"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-22T14:44:28.204Z",
-  "messageCount": 6
+  "lastUpdated": "2025-10-22T15:06:20.706Z",
+  "messageCount": 7
 }
