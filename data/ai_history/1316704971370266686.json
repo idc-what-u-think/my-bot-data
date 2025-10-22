@@ -32,8 +32,16 @@
           "text": "The phrase \"Na wenti dey vex me be this\" translates to:\n\n**\"This is what is bothering me.\"**\n\nAlternatively, it can also mean:\n\n*   \"This is what is annoying me.\"\n*   \"This is my problem.\""
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "translate \"U don craze\" from pidgin to English to my friend barry"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-22T12:31:13.258Z",
-  "messageCount": 4
+  "lastUpdated": "2025-10-22T14:44:26.470Z",
+  "messageCount": 5
 }
