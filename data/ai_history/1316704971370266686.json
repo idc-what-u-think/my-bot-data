@@ -16,8 +16,16 @@
           "text": "Omo! What's the tea sis? 👀"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Where is Addis Abba located"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-23T19:31:11.764Z",
-  "messageCount": 2
+  "lastUpdated": "2025-10-23T19:40:55.064Z",
+  "messageCount": 3
 }
