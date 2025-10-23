@@ -24,8 +24,16 @@
           "text": "Where is Addis Abba located"
         }
       ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Addis Ababa is located in **Ethiopia**, specifically in the East African region known as the Horn of Africa. It serves as the capital city of Ethiopia."
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-23T19:40:55.064Z",
-  "messageCount": 3
+  "lastUpdated": "2025-10-23T19:40:57.012Z",
+  "messageCount": 4
 }
