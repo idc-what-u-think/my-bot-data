@@ -5,83 +5,11 @@
       "role": "user",
       "parts": [
         {
-          "text": "Answer: Phone"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "fr fr, phone always got the answers lol. tryna call someone? 😂"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Answer: <phone>"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Bro, my phone's basically glued to my hand at this point 💀"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Answer: phone"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Fr fr, my whole life is on there 💀"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Answer: phone"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "If my phone dies, so do I. JK... mostly. 💀🔋"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Answer: phone"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "fr tho, can't even go to the bathroom without it 😂"
+          "text": "Omo"
         }
       ]
     }
   ],
-  "lastUpdated": "2025-10-23T19:26:11.579Z",
-  "messageCount": 10
+  "lastUpdated": "2025-10-23T19:31:09.930Z",
+  "messageCount": 1
 }
