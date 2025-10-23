@@ -16442,9 +16442,9 @@
         ]
       },
       "1429401052070936640": {
-        "messages": 2,
-        "totalMessages": 2,
-        "lastActivity": "2025-10-23T19:20:10.684Z",
+        "messages": 3,
+        "totalMessages": 3,
+        "lastActivity": "2025-10-23T19:20:52.892Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -16453,6 +16453,10 @@
           {
             "messages": 2,
             "time": "2025-10-23T19:20:10.684Z"
+          },
+          {
+            "messages": 3,
+            "time": "2025-10-23T19:20:52.892Z"
           }
         ]
       },
