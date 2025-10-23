@@ -176,14 +176,10 @@
     },
     "1208388062166515774": {
       "1316704971370266686": {
-        "messages": 1854,
-        "totalMessages": 1854,
-        "lastActivity": "2025-10-23T19:35:22.518Z",
+        "messages": 1855,
+        "totalMessages": 1855,
+        "lastActivity": "2025-10-23T19:35:30.548Z",
         "messageHistory": [
-          {
-            "messages": 1755,
-            "time": "2025-10-23T06:47:07.508Z"
-          },
           {
             "messages": 1756,
             "time": "2025-10-23T07:01:48.436Z"
@@ -579,14 +575,22 @@
           {
             "messages": 1854,
             "time": "2025-10-23T19:35:22.518Z"
+          },
+          {
+            "messages": 1855,
+            "time": "2025-10-23T19:35:30.548Z"
           }
         ]
       },
       "1366537804787613777": {
-        "messages": 926,
-        "totalMessages": 926,
-        "lastActivity": "2025-10-23T19:35:29.287Z",
+        "messages": 925,
+        "totalMessages": 925,
+        "lastActivity": "2025-10-23T19:34:13.389Z",
         "messageHistory": [
+          {
+            "messages": 826,
+            "time": "2025-10-22T15:28:12.021Z"
+          },
           {
             "messages": 827,
             "time": "2025-10-22T15:29:11.992Z"
@@ -982,10 +986,6 @@
           {
             "messages": 925,
             "time": "2025-10-23T19:34:13.389Z"
-          },
-          {
-            "messages": 926,
-            "time": "2025-10-23T19:35:29.287Z"
           }
         ]
       },
@@ -10356,14 +10356,10 @@
         ]
       },
       "1393876011422318602": {
-        "messages": 799,
-        "totalMessages": 799,
-        "lastActivity": "2025-10-23T19:35:06.554Z",
+        "messages": 800,
+        "totalMessages": 800,
+        "lastActivity": "2025-10-23T19:35:32.885Z",
         "messageHistory": [
-          {
-            "messages": 700,
-            "time": "2025-10-22T23:38:08.728Z"
-          },
           {
             "messages": 701,
             "time": "2025-10-22T23:40:14.530Z"
@@ -10759,6 +10755,10 @@
           {
             "messages": 799,
             "time": "2025-10-23T19:35:06.554Z"
+          },
+          {
+            "messages": 800,
+            "time": "2025-10-23T19:35:32.885Z"
           }
         ]
       },
