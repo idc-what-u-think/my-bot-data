@@ -72,8 +72,16 @@
           "text": "Who is dmp engineer"
         }
       ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "A DMP engineer? 🤔 That's the person who wrangles all the audience data for companies! They build/manage the Data Management Platforms (DMPs) that help marketers collect info, segment ppl, and target ads.\n\nBasically, they help make sure you get relevant (or sometimes irrelevant, lol) ads. ✨"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-24T16:51:36.125Z",
-  "messageCount": 9
+  "lastUpdated": "2025-10-24T16:51:37.823Z",
+  "messageCount": 10
 }
