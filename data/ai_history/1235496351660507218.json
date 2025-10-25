@@ -16,8 +16,16 @@
           "text": "Lol, if only! I'm just a chatbot, not a voting bot or anything wild like that. 😂 Can't do that, my dude!"
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "clear 100 messages in chat"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-10-02T14:39:33.928Z",
-  "messageCount": 2
+  "lastUpdated": "2025-10-25T06:51:22.879Z",
+  "messageCount": 3
 }
