@@ -17799,13 +17799,17 @@
         ]
       },
       "1228085475026145391": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-10-26T12:45:16.894Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-10-26T12:48:36.468Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-10-26T12:45:16.894Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-10-26T12:48:36.468Z"
           }
         ]
       }
