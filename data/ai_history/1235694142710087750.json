@@ -5,83 +5,11 @@
       "role": "user",
       "parts": [
         {
-          "text": "😒"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Big mood. What's wrong? 💀"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Finish the lyrics"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Ooh, bet! Which song? Drop 'em 👇 I gotchu."
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Uh\nSumma lumma dumma \nYou I am human"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "OMG RAP GOD! 🎤\n\"SUMMA LUMMA DOOMA LUMMA YOU ASSUMIN' I'M A HUMAN!\nWhat I gotta do to get it through to you I'm superhuman?\nInnovate and I'm a...\" 🔥\n\nLol that song is a workout for your tongue! 🤣"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Continue"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "\"...Renegade, an X-Man, superior, a mutant.\" 🤯 My tongue gets tied just thinking about it lol. Such a vibe tho! ✨"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Do you know \nDevil doesn't bargain by Alec Benjamin"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Yessir, \"Devil Doesn't Bargain\" is a bop! 🎶 Alec Benjamin's storytelling is just *chef's kiss*. So good. What's up with it? 🤔"
+          "text": "Type the lyrics of the chorus"
         }
       ]
     }
   ],
-  "lastUpdated": "2025-10-27T03:04:17.521Z",
-  "messageCount": 10
+  "lastUpdated": "2025-10-27T03:05:16.695Z",
+  "messageCount": 1
 }
