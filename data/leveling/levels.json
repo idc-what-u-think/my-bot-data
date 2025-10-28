@@ -232,9 +232,9 @@
         ]
       },
       "1408255493918560286": {
-        "messages": 2,
-        "totalMessages": 2,
-        "lastActivity": "2025-10-28T16:00:59.210Z",
+        "messages": 3,
+        "totalMessages": 3,
+        "lastActivity": "2025-10-28T16:01:09.706Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -243,6 +243,10 @@
           {
             "messages": 2,
             "time": "2025-10-28T16:00:59.210Z"
+          },
+          {
+            "messages": 3,
+            "time": "2025-10-28T16:01:09.706Z"
           }
         ]
       }
