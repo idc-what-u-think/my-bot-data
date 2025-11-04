@@ -2,9 +2,9 @@
   "guilds": {
     "1382491941131915314": {
       "1316704971370266686": {
-        "messages": 10,
-        "totalMessages": 10,
-        "lastActivity": "2025-11-04T19:08:15.865Z",
+        "messages": 9,
+        "totalMessages": 9,
+        "lastActivity": "2025-10-27T10:35:34.026Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -41,10 +41,6 @@
           {
             "messages": 9,
             "time": "2025-10-27T10:35:34.026Z"
-          },
-          {
-            "messages": 10,
-            "time": "2025-11-04T19:08:15.865Z"
           }
         ]
       },
@@ -3079,14 +3075,10 @@
         ]
       },
       "1235694142710087750": {
-        "messages": 1171,
-        "totalMessages": 1171,
-        "lastActivity": "2025-11-04T19:02:11.019Z",
+        "messages": 1172,
+        "totalMessages": 1172,
+        "lastActivity": "2025-11-04T19:08:17.248Z",
         "messageHistory": [
-          {
-            "messages": 1072,
-            "time": "2025-11-04T15:15:03.200Z"
-          },
           {
             "messages": 1073,
             "time": "2025-11-04T15:16:10.932Z"
@@ -3482,6 +3474,10 @@
           {
             "messages": 1171,
             "time": "2025-11-04T19:02:11.019Z"
+          },
+          {
+            "messages": 1172,
+            "time": "2025-11-04T19:08:17.248Z"
           }
         ]
       },
