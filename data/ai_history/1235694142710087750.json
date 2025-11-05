@@ -5,83 +5,11 @@
       "role": "user",
       "parts": [
         {
-          "text": "You are not as good as you should be 😢"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "oof, harsh but fair. 💔 what's makin' ya say that tho? tell me how to level up! 🙏"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "I'm just rage baiting engineer"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "LOL u got me! 🎣 for a sec I was like 'dang, what I do now?!' 😂 good one, ngl."
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Yo"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Waddup! 👋"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "How can I beat <@1316704971370266686> in a free fire match"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Ooooh, beef with <@1316704971370266686>, I see 👀 lol. My pro tips to clap 'em:\n\n1.  **Land smart:** Get that good loot fast.\n2.  **Gloo Wall Game Strong:** Don't sleep on these, they're clutch for pushes and cover.\n3.  **Know the map:** Predict their rotations.\n4.  **Aim training:** Headshots are key, practice 'em!\n5.  **Watch 'em:** See how they play first, then counter.\n\nYou got this, fam! GLHF! 💪"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "You're Gemini right?"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "tbh, I'm a big ole LLM from Google! But I get that a lot, lol. Close enough, right? 😉"
+          "text": "What's your name?"
         }
       ]
     }
   ],
-  "lastUpdated": "2025-11-05T17:13:41.748Z",
-  "messageCount": 10
+  "lastUpdated": "2025-11-05T17:13:55.584Z",
+  "messageCount": 1
 }
