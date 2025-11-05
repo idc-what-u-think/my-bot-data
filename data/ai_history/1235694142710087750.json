@@ -5,83 +5,11 @@
       "role": "user",
       "parts": [
         {
-          "text": "What's your name?"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Yo, I'm just your friendly neighborhood Google LLM! No fancy name, just call me... whatever you want, fam. lol"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "😂"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "hahaha, mood. what's up? 😂"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "What's an LLM"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Oh, an LLM? 🤔 Basically, it's like... a super smart AI brain that's reeeally good at talking and writing. Kinda like me! 🧠💬 lol. It's short for \"Large Language Model.\" NBD."
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Wow"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "lol right? it's kinda wild when you think about it 🤔🤯"
-        }
-      ]
-    },
-    {
-      "role": "user",
-      "parts": [
-        {
-          "text": "Yo synapse"
-        }
-      ]
-    },
-    {
-      "role": "model",
-      "parts": [
-        {
-          "text": "Yo, what up fam? 😂 Synapse, that's a cool one! Hmu."
+          "text": "That's your name"
         }
       ]
     }
   ],
-  "lastUpdated": "2025-11-05T17:26:48.290Z",
-  "messageCount": 10
+  "lastUpdated": "2025-11-05T17:27:10.650Z",
+  "messageCount": 1
 }
