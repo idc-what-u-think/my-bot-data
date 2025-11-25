@@ -1875,14 +1875,10 @@
         ]
       },
       "997870387318751302": {
-        "messages": 197,
-        "totalMessages": 197,
-        "lastActivity": "2025-11-25T18:33:48.678Z",
+        "messages": 198,
+        "totalMessages": 198,
+        "lastActivity": "2025-11-25T18:33:57.578Z",
         "messageHistory": [
-          {
-            "messages": 98,
-            "time": "2025-10-01T22:39:47.267Z"
-          },
           {
             "messages": 99,
             "time": "2025-10-01T22:41:01.817Z"
@@ -2278,6 +2274,10 @@
           {
             "messages": 197,
             "time": "2025-11-25T18:33:48.678Z"
+          },
+          {
+            "messages": 198,
+            "time": "2025-11-25T18:33:57.578Z"
           }
         ]
       },
@@ -4195,9 +4195,9 @@
         ]
       },
       "1189665055042711744": {
-        "messages": 23,
-        "totalMessages": 23,
-        "lastActivity": "2025-11-19T21:30:25.159Z",
+        "messages": 24,
+        "totalMessages": 24,
+        "lastActivity": "2025-11-25T18:33:54.527Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -4290,6 +4290,10 @@
           {
             "messages": 23,
             "time": "2025-11-19T21:30:25.159Z"
+          },
+          {
+            "messages": 24,
+            "time": "2025-11-25T18:33:54.527Z"
           }
         ]
       },
@@ -14325,9 +14329,9 @@
         ]
       },
       "1334883553875333141": {
-        "messages": 38,
-        "totalMessages": 38,
-        "lastActivity": "2025-11-25T18:33:53.777Z",
+        "messages": 37,
+        "totalMessages": 37,
+        "lastActivity": "2025-11-25T18:27:40.314Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -14476,10 +14480,6 @@
           {
             "messages": 37,
             "time": "2025-11-25T18:27:40.314Z"
-          },
-          {
-            "messages": 38,
-            "time": "2025-11-25T18:33:53.777Z"
           }
         ]
       },
@@ -24016,14 +24016,14 @@
           }
         ]
       },
-      "1425490630141808855": {
+      "1308107105143619604": {
         "messages": 1,
         "totalMessages": 1,
-        "lastActivity": "2025-11-25T18:33:56.386Z",
+        "lastActivity": "2025-11-25T18:34:01.187Z",
         "messageHistory": [
           {
             "messages": 1,
-            "time": "2025-11-25T18:33:56.386Z"
+            "time": "2025-11-25T18:34:01.187Z"
           }
         ]
       }
