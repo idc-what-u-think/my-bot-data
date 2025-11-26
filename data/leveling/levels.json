@@ -3175,10 +3175,14 @@
         ]
       },
       "1235694142710087750": {
-        "messages": 1498,
-        "totalMessages": 1498,
-        "lastActivity": "2025-11-26T19:41:00.783Z",
+        "messages": 1497,
+        "totalMessages": 1497,
+        "lastActivity": "2025-11-26T19:40:43.479Z",
         "messageHistory": [
+          {
+            "messages": 1398,
+            "time": "2025-11-20T01:28:41.820Z"
+          },
           {
             "messages": 1399,
             "time": "2025-11-20T01:29:03.685Z"
@@ -3574,10 +3578,6 @@
           {
             "messages": 1497,
             "time": "2025-11-26T19:40:43.479Z"
-          },
-          {
-            "messages": 1498,
-            "time": "2025-11-26T19:41:00.783Z"
           }
         ]
       },
@@ -11701,14 +11701,10 @@
         ]
       },
       "1393876011422318602": {
-        "messages": 2914,
-        "totalMessages": 2914,
-        "lastActivity": "2025-11-26T19:40:33.023Z",
+        "messages": 2915,
+        "totalMessages": 2915,
+        "lastActivity": "2025-11-26T19:41:00.882Z",
         "messageHistory": [
-          {
-            "messages": 2815,
-            "time": "2025-11-25T21:56:03.678Z"
-          },
           {
             "messages": 2816,
             "time": "2025-11-25T21:56:39.681Z"
@@ -12104,6 +12100,10 @@
           {
             "messages": 2914,
             "time": "2025-11-26T19:40:33.023Z"
+          },
+          {
+            "messages": 2915,
+            "time": "2025-11-26T19:41:00.882Z"
           }
         ]
       },
