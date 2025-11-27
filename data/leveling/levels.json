@@ -26295,13 +26295,17 @@
         ]
       },
       "1350220583698174032": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-11-27T15:24:45.390Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-11-27T15:25:21.083Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-11-27T15:24:45.390Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-11-27T15:25:21.083Z"
           }
         ]
       }
