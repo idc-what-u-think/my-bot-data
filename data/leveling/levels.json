@@ -4966,14 +4966,10 @@
         ]
       },
       "1258568300900651012": {
-        "messages": 999,
-        "totalMessages": 999,
-        "lastActivity": "2025-11-27T18:22:02.685Z",
+        "messages": 1000,
+        "totalMessages": 1000,
+        "lastActivity": "2025-11-28T20:17:52.281Z",
         "messageHistory": [
-          {
-            "messages": 900,
-            "time": "2025-11-21T19:52:16.127Z"
-          },
           {
             "messages": 901,
             "time": "2025-11-21T20:01:05.856Z"
@@ -5369,6 +5365,10 @@
           {
             "messages": 999,
             "time": "2025-11-27T18:22:02.685Z"
+          },
+          {
+            "messages": 1000,
+            "time": "2025-11-28T20:17:52.281Z"
           }
         ]
       },
