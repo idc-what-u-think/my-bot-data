@@ -27433,13 +27433,17 @@
         ]
       },
       "1444011469485117581": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-11-29T05:54:26.439Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-11-29T05:54:46.985Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-11-29T05:54:26.439Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-11-29T05:54:46.985Z"
           }
         ]
       }
