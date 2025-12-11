@@ -10,7 +10,9 @@
         "protectedChannels": [
           "1218914322625990718"
         ],
-        "bypassRoles": [],
+        "bypassRoles": [
+          "1362801878722805901"
+        ],
         "message": "please refrain from sending links in this channel"
       },
       "modlogChannel": "1420827104815218790",
