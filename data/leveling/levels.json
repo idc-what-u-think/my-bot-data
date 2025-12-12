@@ -28758,13 +28758,17 @@
         ]
       },
       "1397469374016786454": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-12-12T11:29:01.290Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-12-12T11:31:55.592Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-12-12T11:29:01.290Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-12-12T11:31:55.592Z"
           }
         ]
       }
