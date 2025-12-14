@@ -30,7 +30,15 @@
         "channel": "1403034356569604096",
         "message": "Welcome {user} to {server}. Read <#1382492627940671548> and enjoy your stay"
       },
-      "levelUpChannel": "1408815335167230095"
+      "levelUpChannel": "1408815335167230095",
+      "antilink": {
+        "enabled": true,
+        "protectedChannels": [
+          "1382496150766227477"
+        ],
+        "bypassRoles": [],
+        "message": "please refrain from sending links in this channel"
+      }
     }
   }
 }
