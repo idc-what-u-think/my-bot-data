@@ -377,13 +377,17 @@
         ]
       },
       "1449789247274881059": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-12-15T16:41:04.150Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-12-15T16:41:15.930Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-12-15T16:41:04.150Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-12-15T16:41:15.930Z"
           }
         ]
       }
