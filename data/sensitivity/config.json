@@ -1,9 +1,9 @@
 {
-  "maintenanceMode": false,
+  "maintenanceMode": true,
   "botStatus": "Online",
   "features": {
     "allowSignups": true,
-    "allowGenerations": true,
+    "allowGenerations": false,
     "requireAccountForGeneration": true,
     "enableServerVIP": true
   },
