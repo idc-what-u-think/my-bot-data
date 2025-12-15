@@ -1,0 +1,15 @@
+{
+  "maintenanceMode": true,
+  "botStatus": "Online",
+  "features": {
+    "allowSignups": true,
+    "allowGenerations": true,
+    "requireAccountForGeneration": true,
+    "enableServerVIP": true
+  },
+  "limits": {
+    "maxGenerationsPerDay": 100,
+    "maxGenerationsPerUser": 1000
+  },
+  "notifications": {}
+}
