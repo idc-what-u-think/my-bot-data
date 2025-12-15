@@ -30173,13 +30173,17 @@
         ]
       },
       "1244029758501556344": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-12-15T21:42:30.642Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-12-15T22:30:40.700Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-12-15T21:42:30.642Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-12-15T22:30:40.700Z"
           }
         ]
       },
