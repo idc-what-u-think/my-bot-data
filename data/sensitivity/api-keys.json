@@ -1,3 +1,44 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "id": "1765905014553",
+      "name": "Basic api",
+      "description": "TG test bot",
+      "owner": "Firekid test",
+      "keyValue": "sk_6065f8dd62f3d520284ba41fcbb0aaa349fb8ebbb13b122db8ae1aa756d744e5",
+      "tier": "business",
+      "status": "active",
+      "createdAt": "2025-12-16T17:10:14.553Z",
+      "lastUsedAt": null,
+      "limits": {
+        "requestsPerMinute": 2,
+        "requestsPerHour": 3
+      },
+      "features": {
+        "canUseFreeFire": true,
+        "canUseCODM": false,
+        "canUseVIPCalculator": true
+      },
+      "ipWhitelist": [],
+      "allowedDomains": [],
+      "allowedEndpoints": [],
+      "usage": {
+        "totalRequests": 0,
+        "requestsToday": 0,
+        "requestsThisWeek": 0,
+        "requestsThisMonth": 0,
+        "freefire": 0,
+        "codm": 0,
+        "freeCalculator": 0,
+        "vipCalculator": 0,
+        "iphone": 0,
+        "android": 0,
+        "tablet": 0,
+        "successCount": 0,
+        "errorCount": 0,
+        "averageResponseTime": 0
+      },
+      "tags": []
+    }
+  ]
 }
