@@ -47,6 +47,35 @@
         "averageResponseTime": 0
       },
       "tags": []
+    },
+    {
+      "id": "1765883598536",
+      "name": "bnbn",
+      "keyValue": "sk_112875d1f5506abfeeaacd63bde57dc22051ecc3985a8607d463aab7836018cc",
+      "tier": "free",
+      "status": "active",
+      "createdAt": "2025-12-16T11:13:18.536Z",
+      "lastUsedAt": null,
+      "ipWhitelist": [],
+      "allowedDomains": [],
+      "allowedEndpoints": [],
+      "usage": {
+        "totalRequests": 0,
+        "requestsToday": 0,
+        "requestsThisWeek": 0,
+        "requestsThisMonth": 0,
+        "freefire": 0,
+        "codm": 0,
+        "freeCalculator": 0,
+        "vipCalculator": 0,
+        "iphone": 0,
+        "android": 0,
+        "tablet": 0,
+        "successCount": 0,
+        "errorCount": 0,
+        "averageResponseTime": 0
+      },
+      "tags": []
     }
   ]
 }
