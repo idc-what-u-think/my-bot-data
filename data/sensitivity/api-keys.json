@@ -39,6 +39,45 @@
         "averageResponseTime": 0
       },
       "tags": []
+    },
+    {
+      "id": "1765931354205",
+      "name": "test",
+      "owner": "test bot",
+      "keyValue": "sk_6b4d783014558370f70d62c2102d55b5e3c1c54e3f6807a166a779f80f359463",
+      "tier": "vip",
+      "status": "active",
+      "createdAt": "2025-12-17T00:29:14.206Z",
+      "lastUsedAt": null,
+      "limits": {
+        "requestsPerMinute": 2,
+        "requestsPerHour": 3
+      },
+      "features": {
+        "canUseFreeFire": true,
+        "canUseCODM": true,
+        "canUseVIPCalculator": true
+      },
+      "ipWhitelist": [],
+      "allowedDomains": [],
+      "allowedEndpoints": [],
+      "usage": {
+        "totalRequests": 0,
+        "requestsToday": 0,
+        "requestsThisWeek": 0,
+        "requestsThisMonth": 0,
+        "freefire": 0,
+        "codm": 0,
+        "freeCalculator": 0,
+        "vipCalculator": 0,
+        "iphone": 0,
+        "android": 0,
+        "tablet": 0,
+        "successCount": 0,
+        "errorCount": 0,
+        "averageResponseTime": 0
+      },
+      "tags": []
     }
   ]
 }
