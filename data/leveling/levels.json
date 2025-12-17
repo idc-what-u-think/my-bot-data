@@ -30531,13 +30531,17 @@
         ]
       },
       "1379145856774832331": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-12-17T10:09:17.951Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-12-17T10:15:25.240Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-12-17T10:09:17.951Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-12-17T10:15:25.240Z"
           }
         ]
       }
