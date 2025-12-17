@@ -1,3 +1,42 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "id": "1765936622972",
+      "name": "emnnm",
+      "keyValue": "sk_3f939deecfe5a9f381dea931f51db72de9379f1b2474059bce38bc6ae61ab358",
+      "tier": "free",
+      "status": "active",
+      "createdAt": "2025-12-17T01:57:02.972Z",
+      "lastUsedAt": null,
+      "limits": {
+        "requestsPerMinute": 1,
+        "requestsPerHour": 2
+      },
+      "features": {
+        "canUseFreeFire": true,
+        "canUseCODM": true,
+        "canUseVIPCalculator": false
+      },
+      "ipWhitelist": [],
+      "allowedDomains": [],
+      "allowedEndpoints": [],
+      "usage": {
+        "totalRequests": 0,
+        "requestsToday": 0,
+        "requestsThisWeek": 0,
+        "requestsThisMonth": 0,
+        "freefire": 0,
+        "codm": 0,
+        "freeCalculator": 0,
+        "vipCalculator": 0,
+        "iphone": 0,
+        "android": 0,
+        "tablet": 0,
+        "successCount": 0,
+        "errorCount": 0,
+        "averageResponseTime": 0
+      },
+      "tags": []
+    }
+  ]
 }
