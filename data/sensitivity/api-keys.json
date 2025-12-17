@@ -78,6 +78,44 @@
         "averageResponseTime": 0
       },
       "tags": []
+    },
+    {
+      "id": "1765935461566",
+      "name": "nnm",
+      "keyValue": "sk_4e64bb7084af9e734255fb9e9007745c5dc52acfe9dfd1a313eabdb1b12da101",
+      "tier": "free",
+      "status": "active",
+      "createdAt": "2025-12-17T01:37:41.566Z",
+      "lastUsedAt": null,
+      "limits": {
+        "requestsPerMinute": 2,
+        "requestsPerHour": 2
+      },
+      "features": {
+        "canUseFreeFire": true,
+        "canUseCODM": true,
+        "canUseVIPCalculator": false
+      },
+      "ipWhitelist": [],
+      "allowedDomains": [],
+      "allowedEndpoints": [],
+      "usage": {
+        "totalRequests": 0,
+        "requestsToday": 0,
+        "requestsThisWeek": 0,
+        "requestsThisMonth": 0,
+        "freefire": 0,
+        "codm": 0,
+        "freeCalculator": 0,
+        "vipCalculator": 0,
+        "iphone": 0,
+        "android": 0,
+        "tablet": 0,
+        "successCount": 0,
+        "errorCount": 0,
+        "averageResponseTime": 0
+      },
+      "tags": []
     }
   ]
 }
