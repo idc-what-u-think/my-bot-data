@@ -31295,13 +31295,17 @@
         ]
       },
       "1292556490267299922": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-12-19T08:11:55.341Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-12-19T08:15:47.544Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-12-19T08:11:55.341Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-12-19T08:15:47.544Z"
           }
         ]
       }
