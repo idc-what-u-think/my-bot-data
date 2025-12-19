@@ -3328,14 +3328,10 @@
         ]
       },
       "1235694142710087750": {
-        "messages": 2028,
-        "totalMessages": 2028,
-        "lastActivity": "2025-12-19T18:41:11.940Z",
+        "messages": 2029,
+        "totalMessages": 2029,
+        "lastActivity": "2025-12-19T18:41:23.950Z",
         "messageHistory": [
-          {
-            "messages": 1929,
-            "time": "2025-12-18T17:40:25.883Z"
-          },
           {
             "messages": 1930,
             "time": "2025-12-18T17:40:42.842Z"
@@ -3731,6 +3727,10 @@
           {
             "messages": 2028,
             "time": "2025-12-19T18:41:11.940Z"
+          },
+          {
+            "messages": 2029,
+            "time": "2025-12-19T18:41:23.950Z"
           }
         ]
       },
@@ -5196,14 +5196,10 @@
         ]
       },
       "1258568300900651012": {
-        "messages": 1464,
-        "totalMessages": 1464,
-        "lastActivity": "2025-12-19T18:40:25.576Z",
+        "messages": 1465,
+        "totalMessages": 1465,
+        "lastActivity": "2025-12-19T18:41:20.340Z",
         "messageHistory": [
-          {
-            "messages": 1365,
-            "time": "2025-12-19T13:38:51.676Z"
-          },
           {
             "messages": 1366,
             "time": "2025-12-19T13:39:15.506Z"
@@ -5599,6 +5595,10 @@
           {
             "messages": 1464,
             "time": "2025-12-19T18:40:25.576Z"
+          },
+          {
+            "messages": 1465,
+            "time": "2025-12-19T18:41:20.340Z"
           }
         ]
       },
@@ -30457,7 +30457,7 @@
       "984992978382753822": {
         "messages": 32,
         "totalMessages": 32,
-        "lastActivity": "2025-12-19T18:41:21.638Z",
+        "lastActivity": "2025-12-19T18:41:29.940Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -30585,7 +30585,7 @@
           },
           {
             "messages": 32,
-            "time": "2025-12-19T18:41:21.638Z"
+            "time": "2025-12-19T18:41:29.940Z"
           }
         ]
       },
