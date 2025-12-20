@@ -32866,9 +32866,9 @@
     },
     "1447591169495138356": {
       "1317678258740924491": {
-        "messages": 40,
-        "totalMessages": 40,
-        "lastActivity": "2025-12-20T19:33:47.941Z",
+        "messages": 140,
+        "totalMessages": 140,
+        "lastActivity": "2025-12-20T19:43:07.338Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -32993,6 +32993,10 @@
           {
             "messages": 40,
             "time": "2025-12-20T19:33:47.941Z"
+          },
+          {
+            "messages": 140,
+            "time": "2025-12-20T19:43:07.338Z"
           }
         ]
       },
