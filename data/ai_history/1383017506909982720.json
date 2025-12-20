@@ -64,8 +64,16 @@
           "text": "Aight, sent! 👋 Hi, channel! Hope someone replies lol."
         }
       ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How do I check my balance"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-20T18:02:04.468Z",
-  "messageCount": 8
+  "lastUpdated": "2025-12-20T18:03:14.577Z",
+  "messageCount": 9
 }
