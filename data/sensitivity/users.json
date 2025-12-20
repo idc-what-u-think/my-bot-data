@@ -56,6 +56,20 @@
       "vipGrantedAt": null,
       "isBanned": false,
       "banReason": null
+    },
+    "1317678258740924491": {
+      "userId": "1317678258740924491",
+      "username": "lexdagamerr",
+      "role": "free",
+      "totalGenerations": 0,
+      "generationsToday": 0,
+      "lastGenerationDate": null,
+      "createdAt": "2025-12-20T20:41:56.488Z",
+      "lastLogin": "2025-12-20T20:41:56.488Z",
+      "vipGrantedBy": null,
+      "vipGrantedAt": null,
+      "isBanned": false,
+      "banReason": null
     }
   }
 }
