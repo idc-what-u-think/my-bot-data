@@ -44,6 +44,13 @@
         "bypassRoles": [],
         "message": "please refrain from sending links in this channel"
       }
+    },
+    "1447591169495138356": {
+      "welcome": {
+        "enabled": true,
+        "channel": "1447591170510291005",
+        "message": "@user, it’s a pleasure having you here"
+      }
     }
   }
 }
