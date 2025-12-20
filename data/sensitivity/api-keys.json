@@ -74,6 +74,46 @@
         "averageResponseTime": 0
       },
       "tags": []
+    },
+    {
+      "id": "1766268828977",
+      "name": "telegram bot",
+      "keyValue": "sk_0b8d6441858108bbef2e9f0af1637f89f8cbbb5767d401f7db7e897fda1d568a",
+      "tier": "vip",
+      "status": "active",
+      "createdAt": "2025-12-20T22:13:48.977Z",
+      "lastUsedAt": null,
+      "limits": {
+        "requestsPerMinute": 25,
+        "requestsPerHour": 250,
+        "requestsPerDay": 700,
+        "requestsPerMonth": 999
+      },
+      "features": {
+        "canUseFreeFire": true,
+        "canUseCODM": true,
+        "canUseVIPCalculator": true
+      },
+      "ipWhitelist": [],
+      "allowedDomains": [],
+      "allowedEndpoints": [],
+      "usage": {
+        "totalRequests": 0,
+        "requestsToday": 0,
+        "requestsThisWeek": 0,
+        "requestsThisMonth": 0,
+        "freefire": 0,
+        "codm": 0,
+        "freeCalculator": 0,
+        "vipCalculator": 0,
+        "iphone": 0,
+        "android": 0,
+        "tablet": 0,
+        "successCount": 0,
+        "errorCount": 0,
+        "averageResponseTime": 0
+      },
+      "tags": []
     }
   ]
 }
