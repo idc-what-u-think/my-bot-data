@@ -72,8 +72,16 @@
           "text": "How do I check my balance"
         }
       ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "lol I def can't peek your bank balance or anything 😂 but for most stuff, you'd usually check your bank app, their website, or hit an ATM! what kinda balance you tryna check tho? 🤔"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-20T18:03:14.577Z",
-  "messageCount": 9
+  "lastUpdated": "2025-12-20T18:03:16.083Z",
+  "messageCount": 10
 }
