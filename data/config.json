@@ -51,7 +51,18 @@
         "channel": "1447591170510291005",
         "message": "WELCOMED!! ✨ it’s a pleasure having you here, please kindly introduce yourself to us and pick your role color , and also don’t forget to check out rules to get started 😁✊"
       },
-      "levelUpChannel": "1451988398196658248"
+      "levelUpChannel": "1451988398196658248",
+      "filter": {
+        "words": {
+          "fuck you, pussy, sex, dick,": {
+            "pattern": "fuck you, pussy, sex, dick,",
+            "action": "warn",
+            "addedBy": "1383017506909982720",
+            "addedAt": "2025-12-20T18:20:56.679Z"
+          }
+        },
+        "bypassRoles": []
+      }
     }
   },
   "1447591169495138356": {}
