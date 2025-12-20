@@ -40,8 +40,16 @@
           "text": "Hello"
         }
       ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Hiiiii! 👋 What's good?"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-20T19:09:49.585Z",
-  "messageCount": 5
+  "lastUpdated": "2025-12-20T19:09:50.966Z",
+  "messageCount": 6
 }
