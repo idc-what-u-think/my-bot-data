@@ -114,6 +114,49 @@
         "averageResponseTime": 0
       },
       "tags": []
+    },
+    {
+      "id": "1766305072681",
+      "name": "Discord API",
+      "description": "DMP SERVER",
+      "owner": "Firekid",
+      "keyValue": "sk_f0ebb47d0fe12f5811542e45b18218b1340ca2727bf07fe1737a51069613d285",
+      "tier": "pro",
+      "status": "active",
+      "createdAt": "2025-12-21T08:17:52.681Z",
+      "expiresAt": "2026-12-21T09:17",
+      "lastUsedAt": null,
+      "limits": {
+        "requestsPerMinute": 15,
+        "requestsPerHour": 100,
+        "requestsPerDay": 200,
+        "requestsPerMonth": 750
+      },
+      "features": {
+        "canUseFreeFire": true,
+        "canUseCODM": true,
+        "canUseVIPCalculator": true
+      },
+      "ipWhitelist": [],
+      "allowedDomains": [],
+      "allowedEndpoints": [],
+      "usage": {
+        "totalRequests": 0,
+        "requestsToday": 0,
+        "requestsThisWeek": 0,
+        "requestsThisMonth": 0,
+        "freefire": 0,
+        "codm": 0,
+        "freeCalculator": 0,
+        "vipCalculator": 0,
+        "iphone": 0,
+        "android": 0,
+        "tablet": 0,
+        "successCount": 0,
+        "errorCount": 0,
+        "averageResponseTime": 0
+      },
+      "tags": []
     }
   ]
 }
