@@ -1,0 +1,1 @@
+"const { SlashCommandBuilder } = require('discord.js');\n\nmodule.exports = {\n data: new SlashCommandBuilder()\n   .setName('BB Shop')\n   .setDescription('Browse and purchase items'),\n async execute(interaction) {\n   await interaction.reply('Buy BB bucks');\n }\n};"
