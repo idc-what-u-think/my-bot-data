@@ -65,6 +65,12 @@
             "action": "warn",
             "addedBy": "1383017506909982720",
             "addedAt": "2025-12-22T08:00:14.396Z"
+          },
+          "fuck you": {
+            "pattern": "fuck you",
+            "action": "warn",
+            "addedBy": "1383017506909982720",
+            "addedAt": "2025-12-22T08:18:11.847Z"
           }
         },
         "bypassRoles": [
