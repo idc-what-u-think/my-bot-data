@@ -54,12 +54,6 @@
       "levelUpChannel": "1451988398196658248",
       "filter": {
         "words": {
-          "fuck you, pussy, sex, dick,": {
-            "pattern": "fuck you, pussy, sex, dick,",
-            "action": "warn",
-            "addedBy": "1383017506909982720",
-            "addedAt": "2025-12-20T18:20:56.679Z"
-          },
           "fool": {
             "pattern": "fool",
             "action": "warn",
