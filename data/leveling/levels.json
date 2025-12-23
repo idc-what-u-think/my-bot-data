@@ -32573,13 +32573,17 @@
         ]
       },
       "1396578032637968677": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-12-23T13:00:21.577Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-12-23T13:00:59.811Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-12-23T13:00:21.577Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-12-23T13:00:59.811Z"
           }
         ]
       }
