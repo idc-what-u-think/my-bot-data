@@ -420,13 +420,17 @@
         ]
       },
       "1241317945825824860": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-12-23T14:57:39.567Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-12-23T15:02:11.477Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-12-23T14:57:39.567Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-12-23T15:02:11.477Z"
           }
         ]
       }
