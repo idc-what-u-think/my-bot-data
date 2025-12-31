@@ -584,14 +584,10 @@
     },
     "1208388062166515774": {
       "1316704971370266686": {
-        "messages": 5086,
-        "totalMessages": 5086,
-        "lastActivity": "2025-12-31T06:59:21.338Z",
+        "messages": 5087,
+        "totalMessages": 5087,
+        "lastActivity": "2025-12-31T06:59:27.441Z",
         "messageHistory": [
-          {
-            "messages": 4987,
-            "time": "2025-12-29T16:05:49.211Z"
-          },
           {
             "messages": 4988,
             "time": "2025-12-29T16:06:50.132Z"
@@ -987,14 +983,22 @@
           {
             "messages": 5086,
             "time": "2025-12-31T06:59:21.338Z"
+          },
+          {
+            "messages": 5087,
+            "time": "2025-12-31T06:59:27.441Z"
           }
         ]
       },
       "1366537804787613777": {
-        "messages": 3382,
-        "totalMessages": 3382,
-        "lastActivity": "2025-12-31T06:59:27.734Z",
+        "messages": 3381,
+        "totalMessages": 3381,
+        "lastActivity": "2025-12-31T06:58:12.335Z",
         "messageHistory": [
+          {
+            "messages": 3282,
+            "time": "2025-12-27T14:37:40.239Z"
+          },
           {
             "messages": 3283,
             "time": "2025-12-27T14:38:01.341Z"
@@ -1390,10 +1394,6 @@
           {
             "messages": 3381,
             "time": "2025-12-31T06:58:12.335Z"
-          },
-          {
-            "messages": 3382,
-            "time": "2025-12-31T06:59:27.734Z"
           }
         ]
       },
@@ -5426,14 +5426,10 @@
         ]
       },
       "1258568300900651012": {
-        "messages": 1835,
-        "totalMessages": 1835,
-        "lastActivity": "2025-12-31T06:58:07.247Z",
+        "messages": 1836,
+        "totalMessages": 1836,
+        "lastActivity": "2025-12-31T06:59:31.532Z",
         "messageHistory": [
-          {
-            "messages": 1736,
-            "time": "2025-12-25T15:58:07.354Z"
-          },
           {
             "messages": 1737,
             "time": "2025-12-25T19:28:48.747Z"
@@ -5829,6 +5825,10 @@
           {
             "messages": 1835,
             "time": "2025-12-31T06:58:07.247Z"
+          },
+          {
+            "messages": 1836,
+            "time": "2025-12-31T06:59:31.532Z"
           }
         ]
       },
