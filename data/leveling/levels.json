@@ -35221,13 +35221,17 @@
         ]
       },
       "1245727351267131423": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2026-01-05T12:34:42.345Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2026-01-05T12:35:26.040Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2026-01-05T12:34:42.345Z"
+          },
+          {
+            "messages": 2,
+            "time": "2026-01-05T12:35:26.040Z"
           }
         ]
       }
