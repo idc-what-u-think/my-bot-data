@@ -8410,14 +8410,10 @@
         ]
       },
       "1297187270989975675": {
-        "messages": 180,
-        "totalMessages": 180,
-        "lastActivity": "2026-01-05T01:15:09.448Z",
+        "messages": 181,
+        "totalMessages": 181,
+        "lastActivity": "2026-01-05T01:15:56.499Z",
         "messageHistory": [
-          {
-            "messages": 81,
-            "time": "2025-11-17T01:36:33.158Z"
-          },
           {
             "messages": 82,
             "time": "2025-11-17T16:39:30.381Z"
@@ -8813,6 +8809,10 @@
           {
             "messages": 180,
             "time": "2026-01-05T01:15:09.448Z"
+          },
+          {
+            "messages": 181,
+            "time": "2026-01-05T01:15:56.499Z"
           }
         ]
       },
