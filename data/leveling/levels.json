@@ -12532,14 +12532,10 @@
         ]
       },
       "1393876011422318602": {
-        "messages": 3701,
-        "totalMessages": 3701,
-        "lastActivity": "2026-01-05T12:05:58.442Z",
+        "messages": 3702,
+        "totalMessages": 3702,
+        "lastActivity": "2026-01-05T12:31:31.741Z",
         "messageHistory": [
-          {
-            "messages": 3602,
-            "time": "2026-01-04T23:10:58.282Z"
-          },
           {
             "messages": 3603,
             "time": "2026-01-04T23:12:22.577Z"
@@ -12935,6 +12931,10 @@
           {
             "messages": 3701,
             "time": "2026-01-05T12:05:58.442Z"
+          },
+          {
+            "messages": 3702,
+            "time": "2026-01-05T12:31:31.741Z"
           }
         ]
       },
@@ -29800,14 +29800,10 @@
         ]
       },
       "1229752205477941368": {
-        "messages": 145,
-        "totalMessages": 145,
-        "lastActivity": "2026-01-05T12:30:57.002Z",
+        "messages": 146,
+        "totalMessages": 146,
+        "lastActivity": "2026-01-05T12:31:25.551Z",
         "messageHistory": [
-          {
-            "messages": 46,
-            "time": "2025-11-28T19:24:25.782Z"
-          },
           {
             "messages": 47,
             "time": "2025-11-28T19:32:06.478Z"
@@ -30203,6 +30199,10 @@
           {
             "messages": 145,
             "time": "2026-01-05T12:30:57.002Z"
+          },
+          {
+            "messages": 146,
+            "time": "2026-01-05T12:31:25.551Z"
           }
         ]
       },
@@ -35186,17 +35186,13 @@
         ]
       },
       "1399753790311370764": {
-        "messages": 2,
-        "totalMessages": 2,
-        "lastActivity": "2026-01-05T12:31:27.243Z",
+        "messages": 1,
+        "totalMessages": 1,
+        "lastActivity": "2026-01-05T12:31:15.251Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2026-01-05T12:31:15.251Z"
-          },
-          {
-            "messages": 2,
-            "time": "2026-01-05T12:31:27.243Z"
           }
         ]
       }
