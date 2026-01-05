@@ -13643,14 +13643,10 @@
         ]
       },
       "1370539950583316551": {
-        "messages": 937,
-        "totalMessages": 937,
-        "lastActivity": "2026-01-05T13:45:41.639Z",
+        "messages": 938,
+        "totalMessages": 938,
+        "lastActivity": "2026-01-05T13:45:54.085Z",
         "messageHistory": [
-          {
-            "messages": 838,
-            "time": "2026-01-05T03:19:57.644Z"
-          },
           {
             "messages": 839,
             "time": "2026-01-05T03:20:52.842Z"
@@ -14046,6 +14042,10 @@
           {
             "messages": 937,
             "time": "2026-01-05T13:45:41.639Z"
+          },
+          {
+            "messages": 938,
+            "time": "2026-01-05T13:45:54.085Z"
           }
         ]
       },
@@ -19301,10 +19301,14 @@
         ]
       },
       "1393605918419193917": {
-        "messages": 219,
-        "totalMessages": 219,
-        "lastActivity": "2026-01-05T13:45:54.938Z",
+        "messages": 218,
+        "totalMessages": 218,
+        "lastActivity": "2026-01-05T13:45:11.055Z",
         "messageHistory": [
+          {
+            "messages": 119,
+            "time": "2025-10-19T19:05:01.850Z"
+          },
           {
             "messages": 120,
             "time": "2025-10-19T22:10:11.031Z"
@@ -19700,10 +19704,6 @@
           {
             "messages": 218,
             "time": "2026-01-05T13:45:11.055Z"
-          },
-          {
-            "messages": 219,
-            "time": "2026-01-05T13:45:54.938Z"
           }
         ]
       },
@@ -27304,14 +27304,10 @@
         ]
       },
       "1418322137944424580": {
-        "messages": 213,
-        "totalMessages": 213,
-        "lastActivity": "2026-01-05T13:44:52.845Z",
+        "messages": 214,
+        "totalMessages": 214,
+        "lastActivity": "2026-01-05T13:45:59.018Z",
         "messageHistory": [
-          {
-            "messages": 114,
-            "time": "2026-01-03T22:45:57.748Z"
-          },
           {
             "messages": 115,
             "time": "2026-01-04T10:42:48.441Z"
@@ -27707,6 +27703,10 @@
           {
             "messages": 213,
             "time": "2026-01-05T13:44:52.845Z"
+          },
+          {
+            "messages": 214,
+            "time": "2026-01-05T13:45:59.018Z"
           }
         ]
       },
