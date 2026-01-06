@@ -1007,14 +1007,10 @@
         ]
       },
       "1366537804787613777": {
-        "messages": 3551,
-        "totalMessages": 3551,
-        "lastActivity": "2026-01-06T21:07:46.077Z",
+        "messages": 3552,
+        "totalMessages": 3552,
+        "lastActivity": "2026-01-06T21:08:31.615Z",
         "messageHistory": [
-          {
-            "messages": 3452,
-            "time": "2026-01-02T23:45:02.143Z"
-          },
           {
             "messages": 3453,
             "time": "2026-01-02T23:49:32.249Z"
@@ -1410,6 +1406,10 @@
           {
             "messages": 3551,
             "time": "2026-01-06T21:07:46.077Z"
+          },
+          {
+            "messages": 3552,
+            "time": "2026-01-06T21:08:31.615Z"
           }
         ]
       },
