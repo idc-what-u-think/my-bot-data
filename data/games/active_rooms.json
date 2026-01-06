@@ -1,1 +1,16 @@
-{}
+{
+  "1316704971370266686_1767733293075": {
+    "messageId": "1458203864020025590",
+    "channelId": "1421469849133256705",
+    "ownerId": "1316704971370266686",
+    "gameId": "wordchain",
+    "password": null,
+    "players": [
+      "1316704971370266686"
+    ],
+    "maxPlayers": 10,
+    "minPlayers": 2,
+    "status": "waiting",
+    "createdAt": 1767733293449
+  }
+}
