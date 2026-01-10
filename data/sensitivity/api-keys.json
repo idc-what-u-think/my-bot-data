@@ -157,6 +157,48 @@
         "averageResponseTime": 72
       },
       "tags": []
+    },
+    {
+      "id": "1768027841591",
+      "name": "michael",
+      "description": "WA bot",
+      "keyValue": "sk_dc38cf295f9b4c3e5602d8eda02679fdbc8199a1878b91e8ac2da8cc60b7fb97",
+      "tier": "free",
+      "status": "active",
+      "createdAt": "2026-01-10T06:50:41.591Z",
+      "expiresAt": "2027-01-10T07:49",
+      "lastUsedAt": null,
+      "limits": {
+        "requestsPerMinute": 5,
+        "requestsPerHour": 100,
+        "requestsPerDay": 150,
+        "requestsPerMonth": 999
+      },
+      "features": {
+        "canUseFreeFire": true,
+        "canUseCODM": true,
+        "canUseVIPCalculator": false
+      },
+      "ipWhitelist": [],
+      "allowedDomains": [],
+      "allowedEndpoints": [],
+      "usage": {
+        "totalRequests": 0,
+        "requestsToday": 0,
+        "requestsThisWeek": 0,
+        "requestsThisMonth": 0,
+        "freefire": 0,
+        "codm": 0,
+        "freeCalculator": 0,
+        "vipCalculator": 0,
+        "iphone": 0,
+        "android": 0,
+        "tablet": 0,
+        "successCount": 0,
+        "errorCount": 0,
+        "averageResponseTime": 0
+      },
+      "tags": []
     }
   ]
 }
