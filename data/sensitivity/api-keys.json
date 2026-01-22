@@ -199,6 +199,48 @@
         "averageResponseTime": 90.5
       },
       "tags": []
+    },
+    {
+      "id": "1769072693502",
+      "name": "Synpase OG NEw token",
+      "owner": "DMP ENGINEER",
+      "keyValue": "sk_0adf151e1bc876ae498fdcf0e2da7e9f28538a10894bb1b0ca32af64b145bf8d",
+      "tier": "free",
+      "status": "active",
+      "createdAt": "2026-01-22T09:04:53.503Z",
+      "expiresAt": "2030-12-31T10:03",
+      "lastUsedAt": null,
+      "limits": {
+        "requestsPerMinute": 5,
+        "requestsPerHour": 50,
+        "requestsPerDay": 200,
+        "requestsPerMonth": 999
+      },
+      "features": {
+        "canUseFreeFire": true,
+        "canUseCODM": true,
+        "canUseVIPCalculator": false
+      },
+      "ipWhitelist": [],
+      "allowedDomains": [],
+      "allowedEndpoints": [],
+      "usage": {
+        "totalRequests": 0,
+        "requestsToday": 0,
+        "requestsThisWeek": 0,
+        "requestsThisMonth": 0,
+        "freefire": 0,
+        "codm": 0,
+        "freeCalculator": 0,
+        "vipCalculator": 0,
+        "iphone": 0,
+        "android": 0,
+        "tablet": 0,
+        "successCount": 0,
+        "errorCount": 0,
+        "averageResponseTime": 0
+      },
+      "tags": []
     }
   ]
 }
