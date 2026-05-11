@@ -209,7 +209,7 @@
       "status": "active",
       "createdAt": "2026-01-22T09:04:53.503Z",
       "expiresAt": "2030-12-31T10:03",
-      "lastUsedAt": "2026-05-11T10:46:38.738Z",
+      "lastUsedAt": "2026-05-11T10:47:26.490Z",
       "limits": {
         "requestsPerMinute": 5,
         "requestsPerHour": 50,
@@ -238,7 +238,7 @@
         "tablet": 0,
         "successCount": 1,
         "errorCount": 0,
-        "averageResponseTime": 502
+        "averageResponseTime": 308
       },
       "tags": []
     },
