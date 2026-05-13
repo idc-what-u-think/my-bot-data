@@ -6387,14 +6387,10 @@
         ]
       },
       "1333568626879365192": {
-        "messages": 443,
-        "totalMessages": 443,
-        "lastActivity": "2026-05-11T23:04:32.864Z",
+        "messages": 444,
+        "totalMessages": 444,
+        "lastActivity": "2026-05-12T16:38:47.359Z",
         "messageHistory": [
-          {
-            "messages": 344,
-            "time": "2025-12-18T21:21:47.771Z"
-          },
           {
             "messages": 345,
             "time": "2025-12-19T09:05:35.146Z"
@@ -6790,6 +6786,10 @@
           {
             "messages": 443,
             "time": "2026-05-11T23:04:32.864Z"
+          },
+          {
+            "messages": 444,
+            "time": "2026-05-12T16:38:47.359Z"
           }
         ]
       },
@@ -36682,9 +36682,9 @@
         ]
       },
       "1205126838016544849": {
-        "messages": 3,
-        "totalMessages": 3,
-        "lastActivity": "2026-05-03T12:46:22.382Z",
+        "messages": 4,
+        "totalMessages": 4,
+        "lastActivity": "2026-05-13T00:13:47.022Z",
         "messageHistory": [
           {
             "messages": 1,
@@ -36697,6 +36697,10 @@
           {
             "messages": 3,
             "time": "2026-05-03T12:46:22.382Z"
+          },
+          {
+            "messages": 4,
+            "time": "2026-05-13T00:13:47.022Z"
           }
         ]
       },
@@ -37340,6 +37344,36 @@
           {
             "messages": 1,
             "time": "2026-05-12T08:52:36.590Z"
+          }
+        ]
+      },
+      "1022457348410834985": {
+        "messages": 3,
+        "totalMessages": 3,
+        "lastActivity": "2026-05-12T10:58:20.433Z",
+        "messageHistory": [
+          {
+            "messages": 1,
+            "time": "2026-05-12T10:58:05.849Z"
+          },
+          {
+            "messages": 2,
+            "time": "2026-05-12T10:58:12.961Z"
+          },
+          {
+            "messages": 3,
+            "time": "2026-05-12T10:58:20.433Z"
+          }
+        ]
+      },
+      "1215362006375202898": {
+        "messages": 1,
+        "totalMessages": 1,
+        "lastActivity": "2026-05-13T06:58:35.684Z",
+        "messageHistory": [
+          {
+            "messages": 1,
+            "time": "2026-05-13T06:58:35.684Z"
           }
         ]
       }
