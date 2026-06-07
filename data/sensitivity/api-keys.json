@@ -281,6 +281,36 @@
         "averageResponseTime": 0
       },
       "tags": []
+    },
+    {
+      "id": "1780826596439",
+      "name": "Synapse bot",
+      "keyValue": "sk_0b2c2aed6d7978a8efba0259c9c7e2f0f5d783d72048b2fa5144f7d088608772",
+      "tier": "pro",
+      "status": "active",
+      "createdAt": "2026-06-07T10:03:16.439Z",
+      "expiresAt": "2026-06-30T10:02:00.000Z",
+      "lastUsedAt": null,
+      "ipWhitelist": [],
+      "allowedDomains": [],
+      "allowedEndpoints": [],
+      "usage": {
+        "totalRequests": 0,
+        "requestsToday": 0,
+        "requestsThisWeek": 0,
+        "requestsThisMonth": 0,
+        "freefire": 0,
+        "codm": 0,
+        "freeCalculator": 0,
+        "vipCalculator": 0,
+        "iphone": 0,
+        "android": 0,
+        "tablet": 0,
+        "successCount": 0,
+        "errorCount": 0,
+        "averageResponseTime": 0
+      },
+      "tags": []
     }
   ]
 }
