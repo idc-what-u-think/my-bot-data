@@ -290,7 +290,7 @@
       "status": "active",
       "createdAt": "2026-06-07T10:03:16.439Z",
       "expiresAt": "2026-06-30T10:02:00.000Z",
-      "lastUsedAt": "2026-06-07T16:33:17.704Z",
+      "lastUsedAt": "2026-06-07T16:34:20.934Z",
       "ipWhitelist": [],
       "allowedDomains": [],
       "allowedEndpoints": [],
@@ -308,7 +308,7 @@
         "tablet": 0,
         "successCount": 12,
         "errorCount": 0,
-        "averageResponseTime": 352.5833333333333
+        "averageResponseTime": 344.3333333333333
       },
       "tags": []
     }
