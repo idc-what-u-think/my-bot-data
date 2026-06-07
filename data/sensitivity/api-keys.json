@@ -209,7 +209,7 @@
       "status": "active",
       "createdAt": "2026-01-22T09:04:53.503Z",
       "expiresAt": "2030-12-31T10:03",
-      "lastUsedAt": "2026-06-07T10:37:34.017Z",
+      "lastUsedAt": "2026-06-07T10:38:48.563Z",
       "limits": {
         "requestsPerMinute": 5,
         "requestsPerHour": 50,
@@ -225,20 +225,20 @@
       "allowedDomains": [],
       "allowedEndpoints": [],
       "usage": {
-        "totalRequests": 4,
-        "requestsToday": 4,
-        "requestsThisWeek": 4,
-        "requestsThisMonth": 4,
-        "freefire": 4,
+        "totalRequests": 5,
+        "requestsToday": 5,
+        "requestsThisWeek": 5,
+        "requestsThisMonth": 5,
+        "freefire": 5,
         "codm": 0,
-        "freeCalculator": 4,
+        "freeCalculator": 5,
         "vipCalculator": 0,
         "iphone": 1,
-        "android": 3,
+        "android": 4,
         "tablet": 0,
-        "successCount": 4,
+        "successCount": 5,
         "errorCount": 0,
-        "averageResponseTime": 570.75
+        "averageResponseTime": 508.4
       },
       "tags": []
     },
